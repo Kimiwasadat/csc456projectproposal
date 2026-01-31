@@ -1,9 +1,11 @@
 **Project Proposal Name**
-TaskMate
+
+      TaskMate
 
 
 **Pitch**
-      TaskMate is a productivity app designed to help students stay organized, manage their tasks efficiently, and reduce the stress that comes with juggling school, work, and personal responsibilities. By combining simple task tracking with user-friendly design, TaskMate helps users stay on top of what they need to do without feeling overwhelmed.
+
+                  TaskMate is a productivity app designed to help students stay organized, manage their tasks efficiently, and reduce the stress that comes with juggling school, work, and personal responsibilities. By combining simple task tracking with user-friendly design, TaskMate helps users stay on top of what they need to do without feeling overwhelmed.
 
 
 
